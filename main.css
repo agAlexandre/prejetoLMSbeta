@@ -1,9 +1,33 @@
 h1{
-    text-align: center;
-    color: rgb(24, 23, 23);
-    text-shadow: 10px;
+    color: yellow;
+    text-shadow: 5px 5px black;
+    font-size: 10ch;
+    text-align:center ;
+    font-family: 'Germania One', cursive;
 }
 
-html{
-    background-image:url("http://www.itaniumsolutions.org/pics/max/130/1300235_wallpaper-empresa.jpg");
+
+h2{
+
+    font-size: 5ch;
+    text-align:center ;
+    font-family: 'Germania One', cursive;
+
+}
+img{
+
+    margin-left: 45%;
+    height: 10rem;
+    
+
+}
+
+a{
+    font-family: 'Germania One', cursive;
+    text-decoration: none;
+}
+body{
+
+    background-image: url('http://www.itaniumsolutions.org/pics/max/130/1300235_wallpaper-empresa.jpg')
+
 }
