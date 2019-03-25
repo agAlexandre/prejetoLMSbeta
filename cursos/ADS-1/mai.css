@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Mukta');
+body{
+
+    background-image: url('http://i64.tinypic.com/2pt1o55.jpg');
+
+}
+h1,h2,h3,h4,h6,h5{
+
+    color:#E0EEEE;
+    font-family:Mukta;
+}
